@@ -1,0 +1,41 @@
+thy-tuitions/
+├── assets/
+│   ├── css/
+│   │   ├── styles.css
+│   │   └── auth.css
+│   ├── js/
+│   │   ├── main.js
+│   │   └── auth.js
+│   └── images/
+├── config/
+│   ├── database.php
+│   └── mail.php
+├── includes/
+│   ├── auth_functions.php
+│   ├── header.php
+│   ├── footer.php
+│   └── navigation.php
+├── lib/
+│   ├── Database.php
+│   ├── Auth.php
+│   └── Mailer.php
+├── pages/
+│   ├── auth/
+│   │   ├── login.php
+│   │   ├── register.php
+│   │   ├── forgot_password.php
+│   │   └── logout.php
+│   ├── subjects/
+│   │   ├── bgcse.php
+│   │   └── jce.php
+│   ├── profile.php
+│   ├── progress.php
+│   ├── dashboard.php
+│   └── contact.php
+├── uploads/
+│   ├── syllabus/
+│   ├── notes/
+│   └── lessons/
+├── index.php
+├── .htaccess
+└── README.md
